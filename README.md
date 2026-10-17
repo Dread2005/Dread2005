@@ -1,4 +1,4 @@
-'# Tshifhiwa Chiyedza Ford
+# Tshifhiwa Chiyedza Ford
 
 **Junior Software Engineer | Backend, data and practical automation**
 
@@ -32,19 +32,4 @@ An early recommendation project exploring a two-step workflow: recommend books f
 - Email: [tshifhiwachedzafordjr@gmail.com](mailto:tshifhiwachedzafordjr@gmail.com)
 - GitHub: [@Dread2005](https://github.com/Dread2005)
 
-*Open to junior software engineering roles, internships and collaborative projects.*## Hi there 👋
-
-<!--
-**Dread2005/Dread2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Open to junior software engineering roles, internships and collaborative projects.*
